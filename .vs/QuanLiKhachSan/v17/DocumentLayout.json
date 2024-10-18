@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|c:\\users\\asus\\source\\repos\\quanlikhachsan\\quanlikhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|c:\\users\\asus\\source\\repos\\quanlikhachsan\\quanlikhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_emloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_emloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_customercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_customercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\all user control\\uc_checkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\all user control\\uc_checkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|solutionrelative:quanlikhachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C234B68-E102-4B92-9BF6-0A77114CD04F}|QuanLiKhachSan\\QuanLiKhachSan.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\quanlikhachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -34,45 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs",
-              "RelativeDocumentMoniker": "QuanLiKhachSan\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs",
-              "RelativeToolTip": "QuanLiKhachSan\\Dashboard.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAkwDgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:33:40.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs",
-              "RelativeDocumentMoniker": "QuanLiKhachSan\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs [Design]",
-              "RelativeToolTip": "QuanLiKhachSan\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:49:18.359Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UC_CustomerReg.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs",
-              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs [Design]*",
-              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:54:32.178Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -88,6 +75,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UC_CustomerReg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs [Design]",
+              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\UC_CustomerReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:54:32.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uc_Emloyee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_Emloyee.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\uc_Emloyee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_Emloyee.cs [Design]",
+              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\uc_Emloyee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:21:07.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs [Design]",
+              "RelativeToolTip": "QuanLiKhachSan\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:49:18.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.cs",
+              "RelativeToolTip": "QuanLiKhachSan\\Dashboard.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:33:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uc_CheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CheckOut.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\uc_CheckOut.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CheckOut.cs [Design]",
+              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\uc_CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:08:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uc_CustomerControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CustomerControl.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\uc_CustomerControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CustomerControl.cs [Design]",
+              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\uc_CustomerControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:58:40.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Dashboard.Designer.cs",
+              "RelativeToolTip": "QuanLiKhachSan\\Dashboard.Designer.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAewDsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:59:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "uc_CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CheckOut.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\uc_CheckOut.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CheckOut.cs",
+              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\uc_CheckOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:28:27.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "uc_CheckOut.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CheckOut.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiKhachSan\\All User Control\\uc_CheckOut.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\All User Control\\uc_CheckOut.Designer.cs",
+              "RelativeToolTip": "QuanLiKhachSan\\All User Control\\uc_CheckOut.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:09:19.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLiKhachSan\\Form1.cs",
@@ -95,20 +190,18 @@
               "RelativeToolTip": "QuanLiKhachSan\\Form1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:23:27.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:23:27.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLiKhachSan\\Form1.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLiKhachSan\\QuanLiKhachSan\\Form1.cs [Design]",
               "RelativeToolTip": "QuanLiKhachSan\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T05:55:22.368Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-04T05:55:22.368Z"
             }
           ]
         }

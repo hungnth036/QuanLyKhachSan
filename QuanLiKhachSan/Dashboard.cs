@@ -24,12 +24,15 @@ namespace QuanLiKhachSan
 
         private void guna2Button6_Click(object sender, EventArgs e)
         {
-
+            PanelMoving.Left = btnManagerKH.Left + 60;
+            uc_CustomerControl1.Visible = true;
+            uc_CustomerControl1.BringToFront();
+            
         }
 
         private void guna2Button4_Click(object sender, EventArgs e)
         {
-            PanelMoving.Left = btnCustomerRes.Left + 60;
+            PanelMoving.Left = btnCustomerRes.Left + 215;
             uC_CustomerReg1.Visible = true;
             uC_CustomerReg1.BringToFront();
         }
@@ -54,7 +57,12 @@ namespace QuanLiKhachSan
         private void Dashboard_Load(object sender, EventArgs e)
         {
             uC_AddRoom1.Visible = false;
+            uC_CustomerReg1.Visible = false;
+            uc_CheckOut1.Visible = false;
+            uc_CustomerControl1.Visible = false;
+            uc_Emloyee2.Visible = false;
             btnAddRoom.PerformClick();
+      
             
 
         }
@@ -62,6 +70,20 @@ namespace QuanLiKhachSan
         private void uC_AddRoom1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnThanhToan_Click(object sender, EventArgs e)
+        {
+            PanelMoving.Left = btnThanhToan.Left + 60;
+            uc_CheckOut1.Visible = true;
+            uc_CheckOut1.BringToFront();
+        }
+
+        private void btnQuanLyNV_Click(object sender, EventArgs e)
+        {
+            PanelMoving.Left = btnQuanLyNV.Left + 60;
+            uc_Emloyee2.Visible = true;
+            uc_Emloyee2.BringToFront();
         }
     }
 }
